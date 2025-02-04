@@ -155,8 +155,8 @@ This section displays the dashboard where employees can see their applications a
 This section shows the employer dashboard where employers can manage job listings and applicants.
 
 <div gap: 10px;">
-    <img src="Screenshots/managejobs.png" alt="" width="500"/>
     <img src="Screenshots/addjobs.png" alt="" width="500"/>
+    <img src="Screenshots/managejobs.png" alt="" width="500"/>
     <img src="Screenshots/applicants.png" alt="" width="500"/>
 </div>
 
