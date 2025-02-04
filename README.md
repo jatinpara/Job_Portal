@@ -107,26 +107,6 @@ Employers can manage job listings and recieved applicant, while employees can ap
 
 ---
 
-## Skills Demonstrated
-
-- **Full-stack Development**: Built both the frontend and backend, providing a complete solution for job seekers and employers.
-- **File Upload Management**: Used **Multer** to handle resume uploads and **Cloudinary** for storing company logos and profile pictures.
-- **Responsive Web Design**: Designed a responsive and modern UI with **Tailwind CSS**.
-- **User Authentication**: Integrated **JWT authentication** for secure login and user management, with different roles (employee, employer).
-- **RESTful API Design**: Designed RESTful APIs to manage jobs, applications, and user profiles.
-- **Job Application Flow**: Created a job application process where employees submit their resumes, which employers can view and manage.
-- **Pagination**: Implemented pagination for job listings to improve performance and user experience.
-
----
-
-## Future Improvements
-- **Job Recommendation System**: Introduce machine learning or algorithm-based job recommendations for users based on their profile and job history.
-- **Messaging System**: Add a messaging feature for communication between employers and applicants.
-- **Real-Time Updates**: Integrate real-time notifications (e.g., WebSockets) for job application status changes.
-- **Admin Panel**: Add an admin panel for managing users, job listings, and job applications more efficiently.
-
----
-
 ## Screenshots
 
 ### Job Listings Page
@@ -159,6 +139,26 @@ This section shows the employer dashboard where employers can manage job listing
     <img src="Screenshots/managejobs.png" alt="" width="500"/>
     <img src="Screenshots/applicants.png" alt="" width="500"/>
 </div>
+
+---
+
+## Skills Demonstrated
+
+- **Full-stack Development**: Built both the frontend and backend, providing a complete solution for job seekers and employers.
+- **File Upload Management**: Used **Multer** to handle resume uploads and **Cloudinary** for storing company logos and profile pictures.
+- **Responsive Web Design**: Designed a responsive and modern UI with **Tailwind CSS**.
+- **User Authentication**: Integrated **JWT authentication** for secure login and user management, with different roles (employee, employer).
+- **RESTful API Design**: Designed RESTful APIs to manage jobs, applications, and user profiles.
+- **Job Application Flow**: Created a job application process where employees submit their resumes, which employers can view and manage.
+- **Pagination**: Implemented pagination for job listings to improve performance and user experience.
+
+---
+
+## Future Improvements
+- **Job Recommendation System**: Introduce machine learning or algorithm-based job recommendations for users based on their profile and job history.
+- **Messaging System**: Add a messaging feature for communication between employers and applicants.
+- **Real-Time Updates**: Integrate real-time notifications (e.g., WebSockets) for job application status changes.
+- **Admin Panel**: Add an admin panel for managing users, job listings, and job applications more efficiently.
 
 ---
 
