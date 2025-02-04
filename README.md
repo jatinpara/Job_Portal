@@ -165,7 +165,3 @@ This section shows the employer dashboard where employers can manage job listing
 ## Conclusion
 **JobFinder** is a robust job board platform that bridges the gap between job seekers and employers. With features such as job search, filtering, job applications, and an employer dashboard, it provides a comprehensive solution for managing job listings and applications.
 It’s an ideal project for showcasing skills related to full-stack develpoment ,authentication, file handling, and RESTful APIs.
-
----
-
-Feel free to adjust the above template with your specific details, including any additional features, instructions, or modifications you have made.
